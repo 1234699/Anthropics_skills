@@ -1,0 +1,14 @@
+# 翻译Skill依赖包
+# 根据使用的翻译服务选择安装
+
+# Google Translate (推荐，免费)
+googletrans==4.0.0rc1
+
+# DeepL (高质量翻译，需要API密钥)
+# deepl
+
+# OpenAI (使用GPT模型翻译，需要API密钥)
+# openai
+
+# 其他可选依赖
+# requests>=2.28.0  # 某些提供者可能需要
